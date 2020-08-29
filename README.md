@@ -16,9 +16,7 @@
   <img alt="sqlite3" src="https://img.shields.io/badge/-sqlite3-43853d?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-![Hvvang's github stats](https://github-readme-stats.vercel.app/api?username=Hvvang&count_private=true&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvvang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Hvvang's github stats](https://github-readme-stats.vercel.app/api?username=Hvvang&count_private=true&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvvang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Hvvang/Hvvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
