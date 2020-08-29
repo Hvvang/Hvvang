@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Thomas, Desktop developer from <img src="https://image.flaticon.com/icons/svg/197/197572.svg" width="15"/> <b>Kyiv, Ukraine</b>. </p>
+<p>Welcome to my page! </br> I'm Artem, Desktop developer from <img src="https://image.flaticon.com/icons/svg/197/197572.svg" width="15"/> <b>Kyiv, Ukraine</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=flat&logo=c&logoColor=white" />
